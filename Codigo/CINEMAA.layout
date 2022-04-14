@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="394">
+			<Cursor Line="422" Column="8"/>
+			<Selection Line="398" Column="8"/>
+		</File>
+		<File Name="S2D.cpp" Top="No" Tabpos="2" TopLine="40">
+			<Cursor Line="61" Column="17"/>
+			<Selection Line="58" Column="5"/>
+		</File>
+		<File Name="Ingresso.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="21" Column="7"/>
+			<Selection Line="21" Column="24"/>
+		</File>
+		<File Name="Ingresso.cpp" Top="No" Tabpos="4" TopLine="72">
+			<Cursor Line="89" Column="35"/>
+			<Selection Line="89" Column="16"/>
+		</File>
+	</Files>
+</Layout>
